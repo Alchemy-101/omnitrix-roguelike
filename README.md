@@ -1,6 +1,6 @@
 # Omnitrix Roguelike (CLI)
 
-A small text-based roguelike inspired by transformation mechanics. The player completes short runs made of rooms (combat/event/rest), transforms using limited Omnitrix energy, earns DNA, and unlocks new alien forms between sessions.
+A small text-based roguelike inspired by the show Ben 10. The player completes short runs made of rooms (combat/event/rest), transforms using limited Omnitrix energy, earns DNA, and unlocks new alien forms between sessions.
 
 ## Requirements
 - Python 3.10+ recommended
